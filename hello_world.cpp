@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main)
 {
 cout<<"What is your name?"<<endl;
 cin>>n>>endl;
